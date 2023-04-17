@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboreact/static/css/main.4fc2a991.css",
+    "main.js": "/roboreact/static/js/main.a2d654c3.js",
+    "static/js/787.32032a02.chunk.js": "/roboreact/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/roboreact/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/roboreact/index.html",
+    "main.4fc2a991.css.map": "/roboreact/static/css/main.4fc2a991.css.map",
+    "main.a2d654c3.js.map": "/roboreact/static/js/main.a2d654c3.js.map",
+    "787.32032a02.chunk.js.map": "/roboreact/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc2a991.css",
+    "static/js/main.a2d654c3.js"
+  ]
+}
